@@ -1,4 +1,4 @@
-#Breaking Bad Quotes API
+# Breaking Bad Quotes API
 
 This project is a simple website that fetches and displays just random Breaking Bad quotes, Nothing More.
 
