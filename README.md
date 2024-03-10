@@ -12,9 +12,6 @@ email: [kubedrn@gmail.com](mailto:kubedrn@gmail.com)<br>
 - Fetchs Random Breaking Bad Quotes
 - Refresh website to get Random quotes(could have added a button to toggle refresh, but refreshing website feels more cool)
 
-
-## Demo
-- Here you can find [demo](https://65ae51a07077ff276e4d9826--deluxe-licorice-d069b8.netlify.app/)
 ## APIs Used
 
 This project uses the [Breaking Bad quotes API](https://github.com/shevabam/breaking-bad-quotes?ref=apilist.fun) to fetch and display quotes.
